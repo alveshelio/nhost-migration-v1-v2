@@ -1,4 +1,4 @@
-#A guide to migrate from Nhost V1 to V2
+# A guide to migrate from Nhost V1 to V2
 
 At the moment of writing this post, Nhost doesn’t have a migration tool so you’ll need to do this process manually.
 
